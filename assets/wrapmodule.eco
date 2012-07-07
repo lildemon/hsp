@@ -1,3 +1,5 @@
+# decorate the coffee module
+
 define(function(exports, require, module){
 
 	<%- @code %>
